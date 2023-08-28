@@ -1,0 +1,18 @@
+body{
+    /*background-color: #007bff;*/
+}
+.container{
+    font-family: "Arial Narrow";
+    position: relative;
+    /*background-color: #007bff;*/
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 20px;
+}
+.logo-image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+}
